@@ -1,0 +1,17 @@
+debug/chdialog.o
+debug/examwindow.o
+debug/gddialog.o
+debug/main.o
+debug/mainwindow.o
+debug/mythread.o
+debug/mythread2.o
+debug/paperwindow.o
+debug/setdialog.o
+debug/moc_chdialog.o
+debug/moc_examwindow.o
+debug/moc_gddialog.o
+debug/moc_mainwindow.o
+debug/moc_mythread.o
+debug/moc_mythread2.o
+debug/moc_paperwindow.o
+debug/moc_setdialog.o

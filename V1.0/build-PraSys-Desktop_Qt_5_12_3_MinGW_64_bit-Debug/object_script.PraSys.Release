@@ -1,0 +1,17 @@
+release/chdialog.o
+release/examwindow.o
+release/gddialog.o
+release/main.o
+release/mainwindow.o
+release/mythread.o
+release/mythread2.o
+release/paperwindow.o
+release/setdialog.o
+release/moc_chdialog.o
+release/moc_examwindow.o
+release/moc_gddialog.o
+release/moc_mainwindow.o
+release/moc_mythread.o
+release/moc_mythread2.o
+release/moc_paperwindow.o
+release/moc_setdialog.o
